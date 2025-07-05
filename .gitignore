@@ -1,0 +1,8 @@
+# Environment
+hangman_env/
+
+data/dataset.npz
+
+__pycache__/
+
+.DS_Store
